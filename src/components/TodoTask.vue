@@ -108,7 +108,7 @@ export default {
         outline: none;
         border: none;
         background-color: transparent;
-        color: rgb(173, 174, 176);
+        color: rgb(24, 24, 24);
         font-weight: 600;
         font-size: 14px;
         width: 460px;

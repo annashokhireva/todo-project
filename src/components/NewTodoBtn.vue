@@ -15,7 +15,7 @@ export default {
 
 <style>
     .newTodo {
-        background-color: rgb(173, 174, 176);
+        background-color: rgb(21, 103, 117);
         width: 500px;
         height: 3em;
         text-align: center;
@@ -24,5 +24,6 @@ export default {
         font-weight: 600;
         color: #ffffff;
         font-size: 16px;
+        cursor: pointer;
     }
 </style>
